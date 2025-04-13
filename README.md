@@ -6,5 +6,5 @@
 3. DENIS NYAGAH.**(QUERIES)** <ins>dennisnyagah16@gmail.com</ins>
 
 ### *TOOLS USED*
-1. DRAW.IO
-2. MYSQL WORKBENCH
+-DRAW.IO
+*MYSQL WORKBENCH
