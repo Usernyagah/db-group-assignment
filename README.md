@@ -1,4 +1,4 @@
-#  Database Group Assignment
+#  DatabaseGroupAssignment001
 
 ## *MEMBERS AND THEIR CONTIBUTIONS*
 1. CHRISTOPHER OBEGI. **(ER-DIAGRAM AND README FILE EDIT)** ***GL*** chrisobegi2003@gmail.com
