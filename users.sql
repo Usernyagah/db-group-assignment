@@ -13,7 +13,7 @@ REVOKE DELETE ON bookstore_database.* FROM 'staff';
 
 -- Customer (Read-only)
 GRANT SELECT ON bookstore_database TO 'customer';
-GRANT SELECT ON ybookstore_database TO 'customer';
+GRANT SELECT ON bookstore_database TO 'customer';
 
 -- Create User
 CREATE USER 'nairobi_admin'@'%' IDENTIFIED BY 'Admin1234';
